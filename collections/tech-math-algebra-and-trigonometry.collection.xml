@@ -1,0 +1,157 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col32303</md:content-id>
+    <md:title>Tech Math (Algebra and Trigonometry)</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>9c4a75e1-ebb8-4c6a-8e17-a41afa7ca6f3</md:uuid>
+<md:slug>tech-math-algebra-and-trigonometry</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Foundations</md:title>
+      <col:content>
+        <col:module document="m82454"/>
+        <col:module document="m82455"/>
+        <col:module document="m64334"/>
+        <col:module document="m64335"/>
+        <col:module document="m72119"/>
+        <col:module document="m82461"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Linear Equations and Inequalities</md:title>
+      <col:content>
+        <col:module document="m81362"/>
+        <col:module document="m63309"/>
+        <col:module document="m81364"/>
+        <col:module document="m81365"/>
+        <col:module document="m64320"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Graphs and Functions</md:title>
+      <col:content>
+        <col:module document="m49301"/>
+        <col:module document="m49304"/>
+        <col:module document="m49306"/>
+        <col:module document="m49308"/>
+        <col:module document="m49312"/>
+        <col:module document="m64456"/>
+        <col:module document="m49320"/>
+        <col:module document="m64482"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Introduction to Geometry</md:title>
+      <col:content>
+        <col:module document="m60233"/>
+        <col:module document="m64445"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Solving Linear Systems of Equations</md:title>
+      <col:content>
+        <col:module document="m70574"/>
+        <col:module document="m70575"/>
+        <col:module document="m70755"/>
+        <col:module document="m81429"/>
+        <col:module document="m70750"/>
+        <col:module document="m81431"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Factoring</md:title>
+      <col:content>
+        <col:module document="m60295"/>
+        <col:module document="m81387"/>
+        <col:module document="m63360"/>
+        <col:module document="m81389"/>
+        <col:module document="m81390"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Algebraic Fractions</md:title>
+      <col:content>
+        <col:module document="m63367"/>
+        <col:module document="m63368"/>
+        <col:module document="m81440"/>
+        <col:module document="m63380"/>
+        <col:module document="m63374"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Exponents, Roots and Radicals</md:title>
+      <col:content>
+        <col:module document="m63379"/>
+        <col:module document="m81445"/>
+        <col:module document="m81396"/>
+        <col:module document="m63413"/>
+        <col:module document="m63418"/>
+        <col:module document="m81398"/>
+        <col:module document="m63442"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Quadratic Equations</md:title>
+      <col:content>
+        <col:module document="m81400"/>
+        <col:module document="m81401"/>
+        <col:module document="m63463"/>
+        <col:module document="m81402"/>
+        <col:module document="m63465"/>
+        <col:module document="m81404"/>
+        <col:module document="m81405"/>
+        <col:module document="m63441"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Exponential and Logarithmic Functions</md:title>
+      <col:content>
+        <col:module document="m70250"/>
+        <col:module document="m70251"/>
+        <col:module document="m70253"/>
+        <col:module document="m70245"/>
+        <col:module document="m70254"/>
+        <col:module document="m70248"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Geometry and Right Triangle Trigonometry</md:title>
+      <col:content>
+        <col:module document="m49371"/>
+        <col:module document="m60360"/>
+        <col:module document="m51284"/>
+        <col:module document="m51285"/>
+        <col:module document="m51286"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Periodic Functions</md:title>
+      <col:content>
+        <col:module document="m49387"/>
+        <col:module document="m49389"/>
+        <col:module document="m49390"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Trigonometric Equations and Identities</md:title>
+      <col:content>
+        <col:module document="m49393"/>
+        <col:module document="m49395"/>
+        <col:module document="m49396"/>
+        <col:module document="m49397"/>
+        <col:module document="m51292"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Further Applications of Trigonometry</md:title>
+      <col:content>
+        <col:module document="m70008"/>
+        <col:module document="m69993"/>
+        <col:module document="m49408"/>
+        <col:module document="m49412"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
